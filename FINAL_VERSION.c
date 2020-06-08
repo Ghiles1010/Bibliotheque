@@ -845,7 +845,6 @@ void presentation (){
     printf("                        Ce programme gere une biblioteque.   \n\n\n\n\n");
     printf("                                                    realise par:\n");
     printf("                                                       Aghiles DJEBARA.\n");
-    printf("                                                       Chakib HOUATI.\n");
     printf("          ********************************************************\n\n");
     system("pause");
     system("cls");
